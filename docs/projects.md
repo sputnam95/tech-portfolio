@@ -3,12 +3,6 @@ id: projects
 title: Projects
 ---
 
-Embed any notable projects in this page.
+This project was one of my most recent, where I used the DuckDuckGo API and learned about TravisCI [link](https://github.com/sputnam95/ddg_putnam_CSC256)
 
-For example, my favorite project would be linked and I can even embed
-a screenshot or GIF to show it.
-
-You can list [links](https://www.hashicorp.com/resources/test-driven-development-tdd-for-infrastructure)
-or even embed images with the following Markdown:
-
-![Add alternate text for image](./assets/rosemary.png)
+![Project screenshot](./assets/Capture.JPG)
